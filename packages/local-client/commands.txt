@@ -1,0 +1,2 @@
+// View link to download source code
+npm view react dist.tarball

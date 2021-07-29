@@ -1,2 +1,8 @@
 // View link to download source code
 npm view react dist.tarball
+
+// Login to npm
+npm login
+
+// Publish to npm
+npm publish

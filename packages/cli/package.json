@@ -1,6 +1,6 @@
 {
   "name": "aniketos-jsnote",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "publicConfig": {
     "access": "public"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aniketos-jsnote/local-client": "^1.0.2"
+    "@aniketos-jsnote/local-client": "^1.0.3"
   },
   "devDependencies": {
-    "@aniketos-jsnote/local-api": "^1.0.2",
+    "@aniketos-jsnote/local-api": "^1.0.3",
     "@types/node": "^16.4.5",
     "commander": "^8.1.0",
     "esbuild": "0.8.26",

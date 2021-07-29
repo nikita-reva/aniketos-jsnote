@@ -5,7 +5,7 @@
   "files": [
     "dist"
   ],
-  "publicConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "main": "dist/index.js",
@@ -28,5 +28,5 @@
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.1"
   },
-  "gitHead": "40d7912a1f3b74530e83ba6fedffdc2640e1b2e4"
+  "gitHead": "184911caebadb5d0e21a40fcf5d7dabc9b345aa4"
 }

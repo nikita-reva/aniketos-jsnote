@@ -1,5 +1,5 @@
-## jbook-lerna
-This application is published to npm.
+## aniketos-jsnote
+This application is published to the npm registry.
 
 ### Commands:
 - Install:  

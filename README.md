@@ -3,7 +3,7 @@ This application is published to the npm registry.
 
 ### Commands:
 - Install:  
-`npm install -g aniketos.jsnote [filename]`  
+`npm install -g aniketos-jsnote`  
 - Launch app:  
 `aniketos-jsnote serve [filename]`  
 Filename parameter is optional. Default filename is notebook.js.  

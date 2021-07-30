@@ -21,4 +21,4 @@ If no installation is desired, execute the command via npx:
 or simply  
 `npx aniketos-jsnote serve`  
   
-This project is based on the Udemy course [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
+This project is based on the Udemy course [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) by Stephen Grider.
